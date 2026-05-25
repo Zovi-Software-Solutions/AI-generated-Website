@@ -8,7 +8,7 @@
 
 ## 🧠 The story
 
-I'm Geert Roeterink, co-founder of Zovi Software Solutions. We help businesses source software licenses from the right vendors across Europe. My background is in sales and business development — not software development.
+I'm the co-founder of Zovi Software Solutions. We help businesses source software licenses from the right vendors across Europe. My background is in sales and business development — not software development.
 
 When it came time to build our website, I had two options:
 1. Hire a developer for €5.000–€15.000 and wait weeks
@@ -112,10 +112,9 @@ The most important skill turned out to be **giving good feedback** — not writi
 
 ## 📬 Contact
 
-**Geert Roeterink** — Co-founder, Zovi Software Solutions
+**Zovi Software Solutions**
 📧 [info@zovisoftwaresolutions.com](mailto:info@zovisoftwaresolutions.com)
 🌐 [zovisoftwaresolutions.com](https://zovisoftwaresolutions.com)
-💼 [LinkedIn](https://linkedin.com/in/geertroeterink)
 
 ---
 
